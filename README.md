@@ -1,12 +1,27 @@
 # say-goodbye-to-impotence
 Just keeping track of some gym data.
 
-![Monday](figures/chest.png)
 
-![Tuesday](figures/back.png)
+## Summary
 
-![Thursday](figures/shoulder.png)
+![chest](figures/chest.png)
 
-![Friday](figures/arm.png)
+![back](figures/back.png)
 
-![Saturday](figures/leg.png)
+![shoulder](figures/shoulder.png)
+
+![arm](figures/arm.png)
+
+![leg](figures/leg.png)
+
+## Individual workouts
+
+![chest](figures/chest_individual.png)
+
+![back](figures/back_individual.png)
+
+![shoulder](figures/shoulder_individual.png)
+
+![arm](figures/arm_individual.png)
+
+![leg](figures/leg_individual.png)
