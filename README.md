@@ -1,5 +1,7 @@
-# say-goodbye-to-impotence
-Just keeping track of some gym data.
+# goodbye-impotence
+This repository is used to keep track of the weight I lift everyday and my progress. The name of the repository comes from the "skip leg day" meme and the general belief that strengthening leg muscles improves sexual performance. 俗话说得好: 健身不练腿, 迟早得阳痿.
+
+<img src="figures/skip-leg-day-meme.jpg" width=30% />
 
 ## Individual workouts
 
